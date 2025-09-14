@@ -21,7 +21,7 @@ A modern, responsive landing page for a fictional focus & productivity app calle
 ## Live Preview
 👉 https://focuscore.netlify.app/ 
 
-*(Replace `#` with your actual Netlify link)*
+
 
 ---
 
